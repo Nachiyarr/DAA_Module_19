@@ -15,8 +15,8 @@ To write a program to create a recursive function to reverse a string.
 ## Program:
 ```
 Program to implement Reverse a String
-Developed by: M.PAVITHRA
-Register Number:  212222100032
+Developed by:ALAGU NACHIYAR K
+Register Number:  212222240006
 
 def reverse(reverseme):
     if len(reverseme)==0:
